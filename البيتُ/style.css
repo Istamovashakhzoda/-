@@ -1,0 +1,59 @@
+body {
+  background-color: white;
+}
+
+
+form {
+  width: 98%;
+  height: 850px;
+  background-color: blue;
+  border: 6px solid lightblue;
+  border-radius: 20px;
+}
+
+
+FORM H1 {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 30px;
+  color: white;
+}
+
+form p {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+form input {
+  width: 850px;
+  border-bottom: 5px solid rgb(14, 145, 145);
+  background-color: blue;
+  border-bottom: 1px solid black;
+  margin: 20px;
+  text-align: center;
+  margin-left: 250px;
+}
+
+form label {
+  font-size: larger;
+  color: aqua;
+  padding-left: 10px;
+  margin-left: 240px;
+}
+
+form button {
+  background-color: blue;
+  width: 150px;
+  height: 50px;
+  color: white;
+  font-family: sans-serif;
+  margin-left: 540px;
+}
+
+/* 
+form input {
+  border: none;
+  background-color: white;
+  border-bottom: 1px solid black;
+} */
